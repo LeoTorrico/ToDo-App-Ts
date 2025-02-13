@@ -12,7 +12,7 @@ This is a simple ToDo application built using TypeScript and React. It allows us
 ## Installation
 1. Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/ToDo-App-Ts.git
+  git clone https://github.com/LeoTorrico//ToDo-App-Ts.git
   ```
 2. Navigate to the project directory:
   ```bash
